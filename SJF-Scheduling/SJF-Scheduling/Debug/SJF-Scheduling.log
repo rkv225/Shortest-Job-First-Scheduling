@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\rishabh\documents\visual studio 2017\projects\sjf-scheduling\sjf-scheduling\MyForm.h(529): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rishabh\documents\visual studio 2017\projects\sjf-scheduling\sjf-scheduling\MyForm.h(530): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rishabh\documents\visual studio 2017\projects\sjf-scheduling\sjf-scheduling\MyForm.h(531): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SJF-Scheduling.vcxproj -> C:\Users\Rishabh\documents\visual studio 2017\Projects\SJF-Scheduling\Debug\SJF-Scheduling.exe

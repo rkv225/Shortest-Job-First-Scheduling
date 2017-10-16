@@ -53,6 +53,6 @@ while(contExecution)
 ![image](https://github.com/rkv225/Shortest-Job-First-Scheduling/blob/master/preemptive.PNG)
 
 ### Caluculating the Waiting Time and Turn Around Time
-The waiting time of a process is the time, the process remains in the waiting state after it's arrival.
-The turn around time is the sum of the waiting time and the burst time.
+The waiting time of a process is the time, the process remains in the waiting state after it's arrival.<br>
+The turn around time is the sum of the waiting time and the burst time.<br>
 <strong>TAT = Waiting Time + Burst Time</strong>

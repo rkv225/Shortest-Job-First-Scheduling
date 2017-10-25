@@ -22,7 +22,7 @@ while(contExecution)
     executeProcessCompletely(selectedProcess);
   
   if(allProcessesExecuted())
-    contExecuted=false;
+    contExecution=false;
 }
 ```
 #### Screenshot(Non-Preemptive)
@@ -46,7 +46,7 @@ while(contExecution)
     decRemainingBurst(selectedProcess);//decrement the remaining burst time of the process
   
   if(allProcessesExecuted())//no process left whose burst time is remaining
-    contExecuted=false;
+    contExecution=false;
 }
 ```
 #### Screenshot(Preemptive)
